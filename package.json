@@ -1,5 +1,4 @@
 {
-  "bundleDependencies": false,
   "dependencies": {
     "basic-auth": "^2.0.0",
     "bluebird": "^3.5.1",
